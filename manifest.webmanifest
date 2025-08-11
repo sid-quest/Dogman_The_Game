@@ -1,0 +1,18 @@
+{
+  "name": "Dogman",
+  "short_name": "Dogman",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Icon.png",
+        "sizes": "512x512"
+      },{
+        "src": "Icon3.png2.png",
+        "sizes": "1024x1024"
+      }]
+}
